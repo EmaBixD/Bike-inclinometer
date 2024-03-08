@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![preview](https://i.imgur.com/1w352k8.gif)
+![preview](https://i.imgur.com/hwz9wB1.gif)
 
 ## Requierements
 - DOIT ESP32 DEVKIT V1
