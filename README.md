@@ -1,7 +1,5 @@
 # [ESP32-bike-inclinometer](https://github.com/EmaBixD/ESP32-bike-inclinometer)
 
-Born as a project for my bike, ESP32-bike-inclinometer, allows you to check in real time the lateral and vertical inclination of the vehicle.
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ![preview](https://i.imgur.com/hwz9wB1.gif)
