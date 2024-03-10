@@ -39,5 +39,4 @@ Born as a project for my bike, ESP32-bike-inclinometer, allows you to check in r
 > - TFT_eSPI
 > - Adafruit_MPU6050
 
----
 ***Code is not optimized at all. If you find a way to do it better, please, let me know in comments 🤗***
